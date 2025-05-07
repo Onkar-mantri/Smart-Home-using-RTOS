@@ -1,7 +1,7 @@
 # ESP32 Smart Curtain Control System
 
 ### Overview
-This project implements an **automated curtain control system** using **ESP32** and **FreeRTOS**. The system adjusts curtains based on **temperature** and **light levels**, monitors **motion**, and ensures **system health** tracking.
+Design and implement a Smart Home Automation System using any Microcontroller, where multiple tasks are executed concurrently using an RTOS. The tasks should include environmental monitoring, lighting control, security, a user interface, and motor control with PID, all running simultaneously with priority management.
 
 ### Features
 -  **Automatic Curtain Control** (Based on temperature)
