@@ -1,7 +1,7 @@
 # ESP32 Smart Curtain Control System
 
 ### Overview
-Design and implement a Smart Home Automation System using any Microcontroller, where multiple tasks are executed concurrently using an RTOS. The tasks should include environmental monitoring, lighting control, security, a user interface, and motor control with PID, all running simultaneously with priority management.
+Design and implement a Smart Home Automation System using ESP32 Microcontroller, where multiple tasks are executed concurrently using an RTOS. The tasks should include environmental monitoring, lighting control, security, a user interface, and motor control with PID, all running simultaneously with priority management.
 
 ### Features
 -  **Automatic Curtain Control** (Based on temperature)
